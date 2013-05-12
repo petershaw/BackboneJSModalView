@@ -13,7 +13,8 @@
   "ignore": [
   ],
   "dependencies": {
-    "backbone": ">=1.0.0"
+    "backbone": ">=1.0.0",
+    "backbone-validation": ">=0.7.1"
   },
   "devDependencies": {
 
