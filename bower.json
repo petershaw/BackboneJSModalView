@@ -1,14 +1,14 @@
 {
-  "name": "BackboneJSModalView",
-  "description": "A collaborative realtime board",
+  "name": "backbone-jsmodalview",
+  "description": "A base class for your Backbone js views which provides a showModal() method.",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://github.com/petershaw/BackboneJSModalView",
+  "homepage": "https://github.com/petershaw/backbone-jsmodalview",
   "repository": {
     "type": "git",
-    "url": "git://github.com/petershaw/BackboneJSModalView.git"
+    "url": "git://github.com/petershaw/backbone-jsmodalview.git"
   },
-  "author": "Gareth Elms (http://www.garethelms.org)",
+  "author": "Gareth Elms (http://www.garethelms.org), Peter Shaw <unthoughted@petershaw.de> (unthoughted.wordpress.org)",
   "main": "Backbone.ModalDialog.js",
   "ignore": [
   ],
