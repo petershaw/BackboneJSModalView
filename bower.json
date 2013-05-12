@@ -1,0 +1,22 @@
+{
+  "name": "BackboneJSModalView",
+  "description": "A collaborative realtime board",
+  "version": "1.0.0",
+  "private": false,
+  "homepage": "https://github.com/petershaw/BackboneJSModalView",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/petershaw/BackboneJSModalView.git"
+  },
+  "author": "Gareth Elms (http://www.garethelms.org)",
+  "main": "Backbone.ModalDialog.js",
+  "ignore": [
+  ],
+  "dependencies": {
+    "backbone": ">=1.0.0",
+  },
+  "devDependencies": {
+
+  }
+}
+
